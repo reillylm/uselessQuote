@@ -1,4 +1,4 @@
 
 group 'useless.apis'
 version '1.0-SNAPSHOT'
-git.root = './useless.quote'
+//git.root = './useless.quote'
