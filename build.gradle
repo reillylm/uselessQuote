@@ -2,6 +2,5 @@
 group 'useless.apis'
 version '1.0-SNAPSHOT'
 
-ext {
-	git.root = './useless.quote'
-}
+project.git.root = './useless.quote'
+
