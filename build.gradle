@@ -2,4 +2,5 @@
 group 'useless.apis'
 version '1.0-SNAPSHOT'
 
-apply from: "../apis.gradle"
+//apply from: "../useless/apis.gradle"
+apply from: "https://raw.githubusercontent.com/reillylm/useless/master/apis.gradle"
