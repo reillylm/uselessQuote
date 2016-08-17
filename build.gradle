@@ -1,9 +1,5 @@
 
-plugins {
-	id 'nebula.release' version '4.1.0'
-}
-
 group 'useless.apis'
 version '1.0-SNAPSHOT'
 
-//project.git.root = './useless.quote'
+apply from: "https://raw.githubusercontent.com/reillylm/useless/master/apis.gradle"
